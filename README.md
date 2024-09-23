@@ -1,5 +1,5 @@
 # Terminal-File-Explorer
-A simple &amp; light file manager that works on terminal.
+A simple &amp; light file manager that works on linux terminal.
 
 # Note
 For now, You can just see files for a quick access, but cannot edit them. <br />
